@@ -3,7 +3,6 @@
 A web app that fetches and visualizes Leetcode user progress stats (Easy, Medium, Hard problems solved) using JavaScript, HTML, CSS, and the Leetcode GraphQL API.
 
 ---
-
 ## Features
 
 - Search Leetcode username to view problem-solving stats
@@ -12,7 +11,6 @@ A web app that fetches and visualizes Leetcode user progress stats (Easy, Medium
 - Responsive and clean UI
 
 ---
-
 ## How to Use
 
 1. Open the app in your browser  
@@ -21,6 +19,13 @@ A web app that fetches and visualizes Leetcode user progress stats (Easy, Medium
 4. View your progress stats on the page
 
 ---
+## Demo
+
+Here is a screenshot of the app showing Leetcode stats for my username:
+
+![Leetcode Metrics Screenshot]("Project Visual/Project screenshot.png")
+
+
 
 ## Technologies Used
 
